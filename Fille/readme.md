@@ -1,1 +1,2 @@
-12345
+Hello, I'm new user
+My fork.
